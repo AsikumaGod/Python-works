@@ -3,4 +3,4 @@
 a = 'Good morning'
 b = 'Hello neighbors'
 (n := len(a))
-print(len(a))
+print(len(n))
