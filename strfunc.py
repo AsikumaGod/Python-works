@@ -1,4 +1,6 @@
-#str() Add integer and strings together
-myname = "Hello my name is stephen and i am "
-age = str(13)
-print(myname + age + " years old")
+x = 10
+y = 21
+z = x # z = 10
+x = y # x = 21
+y = z # y = 10
+print(x, y)

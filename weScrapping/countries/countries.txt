@@ -1,0 +1,500 @@
+Andorra's capital city is Andorra la Vella and has a population of 84000
+
+United Arab Emirates's capital city is Abu Dhabi and has a population of 4975593
+
+Afghanistan's capital city is Kabul and has a population of 29121286
+
+Antigua and Barbuda's capital city is St. John's and has a population of 86754
+
+Anguilla's capital city is The Valley and has a population of 13254
+
+Albania's capital city is Tirana and has a population of 2986952
+
+Armenia's capital city is Yerevan and has a population of 2968000
+
+Angola's capital city is Luanda and has a population of 13068161
+
+Antarctica's capital city is None and has a population of 0
+
+Argentina's capital city is Buenos Aires and has a population of 41343201
+
+American Samoa's capital city is Pago Pago and has a population of 57881
+
+Austria's capital city is Vienna and has a population of 8205000
+
+Australia's capital city is Canberra and has a population of 21515754
+
+Aruba's capital city is Oranjestad and has a population of 71566
+
+Åland's capital city is Mariehamn and has a population of 26711
+
+Azerbaijan's capital city is Baku and has a population of 8303512
+
+Bosnia and Herzegovina's capital city is Sarajevo and has a population of 4590000
+
+Barbados's capital city is Bridgetown and has a population of 285653
+
+Bangladesh's capital city is Dhaka and has a population of 156118464
+
+Belgium's capital city is Brussels and has a population of 10403000
+
+Burkina Faso's capital city is Ouagadougou and has a population of 16241811
+
+Bulgaria's capital city is Sofia and has a population of 7148785
+
+Bahrain's capital city is Manama and has a population of 738004
+
+Burundi's capital city is Bujumbura and has a population of 9863117
+
+Benin's capital city is Porto-Novo and has a population of 9056010
+
+Saint Barthélemy's capital city is Gustavia and has a population of 8450
+
+Bermuda's capital city is Hamilton and has a population of 65365
+
+Brunei's capital city is Bandar Seri Begawan and has a population of 395027
+
+Bolivia's capital city is Sucre and has a population of 9947418
+
+Bonaire's capital city is Kralendijk and has a population of 18012
+
+Brazil's capital city is Brasília and has a population of 201103330
+
+Bahamas's capital city is Nassau and has a population of 301790
+
+Bhutan's capital city is Thimphu and has a population of 699847
+
+Bouvet Island's capital city is None and has a population of 0
+
+Botswana's capital city is Gaborone and has a population of 2029307
+
+Belarus's capital city is Minsk and has a population of 9685000
+
+Belize's capital city is Belmopan and has a population of 314522
+
+Canada's capital city is Ottawa and has a population of 33679000
+
+Cocos [Keeling] Islands's capital city is West Island and has a population of 628
+
+Democratic Republic of the Congo's capital city is Kinshasa and has a population of 70916439
+
+Central African Republic's capital city is Bangui and has a population of 4844927
+
+Republic of the Congo's capital city is Brazzaville and has a population of 3039126
+
+Switzerland's capital city is Bern and has a population of 7581000
+
+Ivory Coast's capital city is Yamoussoukro and has a population of 21058798
+
+Cook Islands's capital city is Avarua and has a population of 21388
+
+Chile's capital city is Santiago and has a population of 16746491
+
+Cameroon's capital city is Yaoundé and has a population of 19294149
+
+China's capital city is Beijing and has a population of 1330044000
+
+Colombia's capital city is Bogotá and has a population of 47790000
+
+Costa Rica's capital city is San José and has a population of 4516220
+
+Cuba's capital city is Havana and has a population of 11423000
+
+Cape Verde's capital city is Praia and has a population of 508659
+
+Curacao's capital city is Willemstad and has a population of 141766
+
+Christmas Island's capital city is Flying Fish Cove and has a population of 1500
+
+Cyprus's capital city is Nicosia and has a population of 1102677
+
+Czech Republic's capital city is Prague and has a population of 10476000
+
+Germany's capital city is Berlin and has a population of 81802257
+
+Djibouti's capital city is Djibouti and has a population of 740528
+
+Denmark's capital city is Copenhagen and has a population of 5484000
+
+Dominica's capital city is Roseau and has a population of 72813
+
+Dominican Republic's capital city is Santo Domingo and has a population of 9823821
+
+Algeria's capital city is Algiers and has a population of 34586184
+
+Ecuador's capital city is Quito and has a population of 14790608
+
+Estonia's capital city is Tallinn and has a population of 1291170
+
+Egypt's capital city is Cairo and has a population of 80471869
+
+Western Sahara's capital city is Laâyoune / El Aaiún and has a population of 273008
+
+Eritrea's capital city is Asmara and has a population of 5792984
+
+Spain's capital city is Madrid and has a population of 46505963
+
+Ethiopia's capital city is Addis Ababa and has a population of 88013491
+
+Finland's capital city is Helsinki and has a population of 5244000
+
+Fiji's capital city is Suva and has a population of 875983
+
+Falkland Islands's capital city is Stanley and has a population of 2638
+
+Micronesia's capital city is Palikir and has a population of 107708
+
+Faroe Islands's capital city is Tórshavn and has a population of 48228
+
+France's capital city is Paris and has a population of 64768389
+
+Gabon's capital city is Libreville and has a population of 1545255
+
+United Kingdom's capital city is London and has a population of 62348447
+
+Grenada's capital city is St. George's and has a population of 107818
+
+Georgia's capital city is Tbilisi and has a population of 4630000
+
+French Guiana's capital city is Cayenne and has a population of 195506
+
+Guernsey's capital city is St Peter Port and has a population of 65228
+
+Ghana's capital city is Accra and has a population of 24339838
+
+Gibraltar's capital city is Gibraltar and has a population of 27884
+
+Greenland's capital city is Nuuk and has a population of 56375
+
+Gambia's capital city is Bathurst and has a population of 1593256
+
+Guinea's capital city is Conakry and has a population of 10324025
+
+Guadeloupe's capital city is Basse-Terre and has a population of 443000
+
+Equatorial Guinea's capital city is Malabo and has a population of 1014999
+
+Greece's capital city is Athens and has a population of 11000000
+
+South Georgia and the South Sandwich Islands's capital city is Grytviken and has a population of 30
+
+Guatemala's capital city is Guatemala City and has a population of 13550440
+
+Guam's capital city is Hagåtña and has a population of 159358
+
+Guinea-Bissau's capital city is Bissau and has a population of 1565126
+
+Guyana's capital city is Georgetown and has a population of 748486
+
+Hong Kong's capital city is Hong Kong and has a population of 6898686
+
+Heard Island and McDonald Islands's capital city is None and has a population of 0
+
+Honduras's capital city is Tegucigalpa and has a population of 7989415
+
+Croatia's capital city is Zagreb and has a population of 4491000
+
+Haiti's capital city is Port-au-Prince and has a population of 9648924
+
+Hungary's capital city is Budapest and has a population of 9982000
+
+Indonesia's capital city is Jakarta and has a population of 242968342
+
+Ireland's capital city is Dublin and has a population of 4622917
+
+Israel's capital city is None and has a population of 7353985
+
+Isle of Man's capital city is Douglas and has a population of 75049
+
+India's capital city is New Delhi and has a population of 1173108018
+
+British Indian Ocean Territory's capital city is None and has a population of 4000
+
+Iraq's capital city is Baghdad and has a population of 29671605
+
+Iran's capital city is Tehran and has a population of 76923300
+
+Iceland's capital city is Reykjavik and has a population of 308910
+
+Italy's capital city is Rome and has a population of 60340328
+
+Jersey's capital city is Saint Helier and has a population of 90812
+
+Jamaica's capital city is Kingston and has a population of 2847232
+
+Jordan's capital city is Amman and has a population of 6407085
+
+Japan's capital city is Tokyo and has a population of 127288000
+
+Kenya's capital city is Nairobi and has a population of 40046566
+
+Kyrgyzstan's capital city is Bishkek and has a population of 5776500
+
+Cambodia's capital city is Phnom Penh and has a population of 14453680
+
+Kiribati's capital city is Tarawa and has a population of 92533
+
+Comoros's capital city is Moroni and has a population of 773407
+
+Saint Kitts and Nevis's capital city is Basseterre and has a population of 51134
+
+North Korea's capital city is Pyongyang and has a population of 22912177
+
+South Korea's capital city is Seoul and has a population of 48422644
+
+Kuwait's capital city is Kuwait City and has a population of 2789132
+
+Cayman Islands's capital city is George Town and has a population of 44270
+
+Kazakhstan's capital city is Astana and has a population of 15340000
+
+Laos's capital city is Vientiane and has a population of 6368162
+
+Lebanon's capital city is Beirut and has a population of 4125247
+
+Saint Lucia's capital city is Castries and has a population of 160922
+
+Liechtenstein's capital city is Vaduz and has a population of 35000
+
+Sri Lanka's capital city is Colombo and has a population of 21513990
+
+Liberia's capital city is Monrovia and has a population of 3685076
+
+Lesotho's capital city is Maseru and has a population of 1919552
+
+Lithuania's capital city is Vilnius and has a population of 2944459
+
+Luxembourg's capital city is Luxembourg and has a population of 497538
+
+Latvia's capital city is Riga and has a population of 2217969
+
+Libya's capital city is Tripoli and has a population of 6461454
+
+Morocco's capital city is Rabat and has a population of 31627428
+
+Monaco's capital city is Monaco and has a population of 32965
+
+Moldova's capital city is Chişinău and has a population of 4324000
+
+Montenegro's capital city is Podgorica and has a population of 666730
+
+Saint Martin's capital city is Marigot and has a population of 35925
+
+Madagascar's capital city is Antananarivo and has a population of 21281844
+
+Marshall Islands's capital city is Majuro and has a population of 65859
+
+Macedonia's capital city is Skopje and has a population of 2062294
+
+Mali's capital city is Bamako and has a population of 13796354
+
+Myanmar [Burma]'s capital city is Naypyitaw and has a population of 53414374
+
+Mongolia's capital city is Ulan Bator and has a population of 3086918
+
+Macao's capital city is Macao and has a population of 449198
+
+Northern Mariana Islands's capital city is Saipan and has a population of 53883
+
+Martinique's capital city is Fort-de-France and has a population of 432900
+
+Mauritania's capital city is Nouakchott and has a population of 3205060
+
+Montserrat's capital city is Plymouth and has a population of 9341
+
+Malta's capital city is Valletta and has a population of 403000
+
+Mauritius's capital city is Port Louis and has a population of 1294104
+
+Maldives's capital city is Malé and has a population of 395650
+
+Malawi's capital city is Lilongwe and has a population of 15447500
+
+Mexico's capital city is Mexico City and has a population of 112468855
+
+Malaysia's capital city is Kuala Lumpur and has a population of 28274729
+
+Mozambique's capital city is Maputo and has a population of 22061451
+
+Namibia's capital city is Windhoek and has a population of 2128471
+
+New Caledonia's capital city is Noumea and has a population of 216494
+
+Niger's capital city is Niamey and has a population of 15878271
+
+Norfolk Island's capital city is Kingston and has a population of 1828
+
+Nigeria's capital city is Abuja and has a population of 154000000
+
+Nicaragua's capital city is Managua and has a population of 5995928
+
+Netherlands's capital city is Amsterdam and has a population of 16645000
+
+Norway's capital city is Oslo and has a population of 5009150
+
+Nepal's capital city is Kathmandu and has a population of 28951852
+
+Nauru's capital city is Yaren and has a population of 10065
+
+Niue's capital city is Alofi and has a population of 2166
+
+New Zealand's capital city is Wellington and has a population of 4252277
+
+Oman's capital city is Muscat and has a population of 2967717
+
+Panama's capital city is Panama City and has a population of 3410676
+
+Peru's capital city is Lima and has a population of 29907003
+
+French Polynesia's capital city is Papeete and has a population of 270485
+
+Papua New Guinea's capital city is Port Moresby and has a population of 6064515
+
+Philippines's capital city is Manila and has a population of 99900177
+
+Pakistan's capital city is Islamabad and has a population of 184404791
+
+Poland's capital city is Warsaw and has a population of 38500000
+
+Saint Pierre and Miquelon's capital city is Saint-Pierre and has a population of 7012
+
+Pitcairn Islands's capital city is Adamstown and has a population of 46
+
+Puerto Rico's capital city is San Juan and has a population of 3916632
+
+Palestine's capital city is None and has a population of 3800000
+
+Portugal's capital city is Lisbon and has a population of 10676000
+
+Palau's capital city is Melekeok and has a population of 19907
+
+Paraguay's capital city is Asunción and has a population of 6375830
+
+Qatar's capital city is Doha and has a population of 840926
+
+Réunion's capital city is Saint-Denis and has a population of 776948
+
+Romania's capital city is Bucharest and has a population of 21959278
+
+Serbia's capital city is Belgrade and has a population of 7344847
+
+Russia's capital city is Moscow and has a population of 140702000
+
+Rwanda's capital city is Kigali and has a population of 11055976
+
+Saudi Arabia's capital city is Riyadh and has a population of 25731776
+
+Solomon Islands's capital city is Honiara and has a population of 559198
+
+Seychelles's capital city is Victoria and has a population of 88340
+
+Sudan's capital city is Khartoum and has a population of 35000000
+
+Sweden's capital city is Stockholm and has a population of 9828655
+
+Singapore's capital city is Singapore and has a population of 4701069
+
+Saint Helena's capital city is Jamestown and has a population of 7460
+
+Slovenia's capital city is Ljubljana and has a population of 2007000
+
+Svalbard and Jan Mayen's capital city is Longyearbyen and has a population of 2550
+
+Slovakia's capital city is Bratislava and has a population of 5455000
+
+Sierra Leone's capital city is Freetown and has a population of 5245695
+
+San Marino's capital city is San Marino and has a population of 31477
+
+Senegal's capital city is Dakar and has a population of 12323252
+
+Somalia's capital city is Mogadishu and has a population of 10112453
+
+Suriname's capital city is Paramaribo and has a population of 492829
+
+South Sudan's capital city is Juba and has a population of 8260490
+
+São Tomé and Príncipe's capital city is São Tomé and has a population of 175808
+
+El Salvador's capital city is San Salvador and has a population of 6052064
+
+Sint Maarten's capital city is Philipsburg and has a population of 37429
+
+Syria's capital city is Damascus and has a population of 22198110
+
+Swaziland's capital city is Mbabane and has a population of 1354051
+
+Turks and Caicos Islands's capital city is Cockburn Town and has a population of 20556
+
+Chad's capital city is N'Djamena and has a population of 10543464
+
+French Southern Territories's capital city is Port-aux-Français and has a population of 140
+
+Togo's capital city is Lomé and has a population of 6587239
+
+Thailand's capital city is Bangkok and has a population of 67089500
+
+Tajikistan's capital city is Dushanbe and has a population of 7487489
+
+Tokelau's capital city is None and has a population of 1466
+
+East Timor's capital city is Dili and has a population of 1154625
+
+Turkmenistan's capital city is Ashgabat and has a population of 4940916
+
+Tunisia's capital city is Tunis and has a population of 10589025
+
+Tonga's capital city is Nuku'alofa and has a population of 122580
+
+Turkey's capital city is Ankara and has a population of 77804122
+
+Trinidad and Tobago's capital city is Port of Spain and has a population of 1228691
+
+Tuvalu's capital city is Funafuti and has a population of 10472
+
+Taiwan's capital city is Taipei and has a population of 22894384
+
+Tanzania's capital city is Dodoma and has a population of 41892895
+
+Ukraine's capital city is Kiev and has a population of 45415596
+
+Uganda's capital city is Kampala and has a population of 33398682
+
+U.S. Minor Outlying Islands's capital city is None and has a population of 0
+
+United States's capital city is Washington and has a population of 310232863
+
+Uruguay's capital city is Montevideo and has a population of 3477000
+
+Uzbekistan's capital city is Tashkent and has a population of 27865738
+
+Vatican City's capital city is Vatican City and has a population of 921
+
+Saint Vincent and the Grenadines's capital city is Kingstown and has a population of 104217
+
+Venezuela's capital city is Caracas and has a population of 27223228
+
+British Virgin Islands's capital city is Road Town and has a population of 21730
+
+U.S. Virgin Islands's capital city is Charlotte Amalie and has a population of 108708
+
+Vietnam's capital city is Hanoi and has a population of 89571130
+
+Vanuatu's capital city is Port Vila and has a population of 221552
+
+Wallis and Futuna's capital city is Mata-Utu and has a population of 16025
+
+Samoa's capital city is Apia and has a population of 192001
+
+Kosovo's capital city is Pristina and has a population of 1800000
+
+Yemen's capital city is Sanaa and has a population of 23495361
+
+Mayotte's capital city is Mamoudzou and has a population of 159042
+
+South Africa's capital city is Pretoria and has a population of 49000000
+
+Zambia's capital city is Lusaka and has a population of 13460305
+
+Zimbabwe's capital city is Harare and has a population of 11651858
+

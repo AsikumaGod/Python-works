@@ -1,7 +1,6 @@
-file = open("hyperskill.txt", "r")
-i = 0
-for files in file.readlines():
-    if "summer\n" in files:
-        i += 1
-        print(i)
-file.close()
+def myfunc(a):
+    if a == True:
+        return 'Inside'
+    elif a == False:
+        return 'Outside'
+    myfunc(True)

@@ -1,6 +1,6 @@
 """
 This program which stores book information with Title, Author, Year, ISBN
-This the user interface of the whole program
+This is the user interface of the whole program
 """
 from tkinter import *
 import backend
